@@ -6,7 +6,7 @@ db-data/
 *.pyc
 *.pyo
 *.pyd
-
+bin/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
